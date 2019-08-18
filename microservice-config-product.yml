@@ -39,7 +39,7 @@ eureka:
 
 emp:
   name:
-    zhangsan
+    lisi
     
 ---
 server:
