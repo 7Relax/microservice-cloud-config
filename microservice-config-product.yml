@@ -71,3 +71,7 @@ eureka:
   instance:
     instance-id: ${spring.application.name}:${server.port} # 等价于 microservice-product:8001
     prefer-ip-address: true                                # 访问路径就会显示成IP地址
+
+emp:
+  name:
+    zhangsan
